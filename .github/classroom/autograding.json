@@ -23,7 +23,7 @@
     {
       "name": "convertToArrayList",
       "setup": "",
-      "run": "./gradlew clean test --tests MyTests.testCovertToArrayList",
+      "run": "./gradlew clean test --tests MyTests.testConvertToArrayList",
       "input": "",
       "output": "",
       "comparison": "included",
